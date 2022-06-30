@@ -1,5 +1,7 @@
 ![gif](https://media.discordapp.net/attachments/764633309899653121/949116011070779462/ezgif-3-df032e241058.gif)
 
+📬 [quipex.dev@gmail.com](mailto:quipex.dev@gmail.com)
+
 <!--
 **Quipex/Quipex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
